@@ -60,7 +60,8 @@ The interesting part was seeing where AI accelerated implementation — and wher
 
 [Play Slime Invaders](https://slime-invader-gamepl-eey3.bolt.host/play)
 
-_Add a screenshot or short GIF here._
+<img width="1754" height="1164" alt="1" src="https://github.com/user-attachments/assets/d447bcfb-0eaf-47c4-b542-df5ae9f1db84" />
+
 
 ## Inspiration
 
